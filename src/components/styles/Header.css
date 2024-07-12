@@ -1,0 +1,12 @@
+header{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+
+video{
+	width: 40vw;
+	height: auto;
+	align-self: center;
+}
