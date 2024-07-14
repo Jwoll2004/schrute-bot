@@ -4,7 +4,7 @@ This is an AI chatbot that impersonates Dwight K. Schrute from the famous US TV 
 
 The website is built using HTML, CSS, and JavaScript along with the React library. It uses Google's Gemini API for the chatbot functionality. 
 
-Schrute Bot in action! - [Demo]([https://drive.google.com/file/d/11m270i4A86975VlO9u1wMi8oTWthnf32/view?usp=sharing])
+Schrute Bot in action! - [Demo](https://drive.google.com/file/d/11m270i4A86975VlO9u1wMi8oTWthnf32/view?usp=sharing)
  
 ![demo screenshot](src/assets/images/schrute-bot-ss.png)
 
