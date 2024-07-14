@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Schrute Bot
+
+This is an AI chatbot that impersonates Dwight K. Schrute from the famous US TV show, "The Office", providing engaging user interactions. 
+
+The website is built using HTML, CSS, and JavaScript along with the React library. It uses Google's Gemini API for the chatbot functionality. 
+
+Schrute Bot in action! - [Demo]([https://portfolio-jwacker.vercel.app/](https://drive.google.com/file/d/11m270i4A86975VlO9u1wMi8oTWthnf32/view?usp=sharing))
+ 
+![demo screenshot](src/assets/images/schrute-bot-ss.png)
+
+# Here are some React project setup details:
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
